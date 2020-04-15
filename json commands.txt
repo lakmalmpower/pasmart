@@ -1,0 +1,2 @@
+{"location":"kitchen","device":"lights", "state":"on","query":"cmd"}
+{"location":"kitchen","device":"lights", "state":"off","query":"cmd"}
